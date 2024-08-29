@@ -1,3 +1,4 @@
+print('hello we are learning github')
 # variables  
 # variables is a small block of memory container, that can store data for some time. 
 # 
@@ -26,6 +27,7 @@
 # print(type(st2))
 # print(type(st3))
 # print(type(st4))
+
 
 #print(st1[start:stoping:jump point])
 
